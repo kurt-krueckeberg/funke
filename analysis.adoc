@@ -1,5 +1,23 @@
 = Analysis of Funke Document
 
+== Applicability of Funke’s 1848 article by time period
+
+* *1725–ca. 1745:* *Weak applicability.* _Einlieger_ status often
+temporary or life-cycle related; land and household systems still absorb
+surplus people. Funke’s structural analysis does *not* yet fully apply.
+* *ca. 1750–1775:* *Partial applicability (transitional phase).*
+Population pressure and land scarcity are increasing, but the system is
+still adjusting. Funke’s framework begins to fit, though not uniformly.
+* *ca. 1780–1848:* *Strong applicability.* Land scarcity and restricted
+household formation are entrenched. _Einlieger_ status is persistent and
+often intergenerational. This is the period Funke is primarily
+describing.
+
+== One-sentence takeaway on its Applicability
+
+*Funke explains the _end state_ of an 18th-century process, not its
+beginning; his analysis fits best from about 1780 to 1848.*
+
 == Summary and Analysis of Georg Funke’s 1848 Article
 
 *"`On the Conditions of the Landless Rural Population in the
