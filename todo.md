@@ -1,6 +1,5 @@
 # TODO
 
-Resume using chatgpt to proofread all.txt. I have done page-1104,jpg thru
-page-1118.jpg. Resume with page-1119.jpg.
+Chatgpt has proofread and correct the entire transliteration.
 
-Once everything has been corrected, delete the page-xxxx.txt files.
+The remaining thing to do is replace the "*" with the dagger.
