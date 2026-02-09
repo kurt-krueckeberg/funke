@@ -24,8 +24,6 @@ durch die Herren Hahn in Hannover und Rackhorst in Osnabrück sicher an mich
 gelangen. — Nachfolgender Artikel ist nach eingegangenen
 Privatmittheilungen bearbeitet.
 
-Zeitschr. d. Vereins für deutsche Statistik. II. Jahrg.  139
-
 Im Jahre 1834 betrug die Volkszahl 98428 (97720) und 1840 war sie auf
 104462 gestiegen, so daß man als mittlere Durchschnittszunahme der
 Bevölkerung 0,7 Prozent annehmen kann. Auf die Quadratmeile kommen
@@ -408,10 +406,10 @@ ungeachtet, weil die Ziegelarbeiten im Auslande eine immer größere
 Ausdehnung gewonnen, die Hofbesitzer ausländische Knechte miethen mußten,
 welche dann noch sogar in diesem übervölkerten Lande ansässig wurden. Wir
 brauchen wohl kaum hinzuzufügen, daß die Zunahme der Bevölkerung
-gegenwärtig, wo 5148 Einwohner schon auf die Quadrat-Meile kommen, nicht viel mehr
-steigen kann, und daß das Verhältniß der Besitzenden zu den Besitzlosen
-nicht ungünstiger werden darf, als es bereits ist, wenn beide überhaupt
-noch bestehen wollen. Schon jetzt, wo zwei Drittel der ländlichen
+gegenwärtig, wo 5148 Einwohner schon auf die Quadrat-Meile kommen, nicht
+viel mehr steigen kann, und daß das Verhältniß der Besitzenden zu den
+Besitzlosen nicht ungünstiger werden darf, als es bereits ist, wenn beide
+überhaupt noch bestehen wollen. Schon jetzt, wo zwei Drittel der ländlichen
 Bevölkerung besitzlos sind, fallen diese besitzlosen Bewohner den
 besitzenden übermäßig, besonders bei Unglücksfällen und in Nothjahren zur
 Last, wie nun, wenn die Bevölkerung in derselben Progression stiege; wie
@@ -495,8 +493,8 @@ gehalten worden. Dieß mag immerhin wahr sein, indessen scheint uns eine
 ländliche, wenn auch nur kleine Wirthschaft ohne eine Kuh schon um
 deßwillen eine unvollkommene zu sein, weil alsdann, abgesehen von anderen
 Vortheilen, die Familie die so sehr nährende und kräftigende Milch
-entbehren muß. Im Lippeschen halten sich die Einlieger statt einer Kuh,
-um Milch zu ihrem Kaffee zu haben, eine oder zwei Ziegen, welche allerdings
+entbehren muß. Im Lippeschen halten sich die Einlieger statt einer Kuh, um
+Milch zu ihrem Kaffee zu haben, eine oder zwei Ziegen, welche allerdings
 weniger zu unterhalten kosten, aber auch lange nicht die Vortheile
 gewähren. Die Butter fehlt natürlich völlig im Haushalte. Manche
 Einliegerstellen giebt es jedoch noch jetzt, mit welchen so viel Land
@@ -846,6 +844,7 @@ auch die nach dem Vorbilde der alten Kirche einzusetzenden Armenpfleger
 Pflege
 
 [End-of-page footnotes follow]
+
 † Die indirecten Abgaben sind indessen durch den Anschluß an den
 Zollverein auch für die Einlieger erhoben worden.
 ‡ Bgl. Antze über die
