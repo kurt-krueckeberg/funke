@@ -1,3 +1,4 @@
 # TODO
 
-I added "Setie 1108" to transliteration.adoc. Add the rest of the pages.
+Finish formatting the translation.txt. Check the sentences that corss page
+boundaries.
