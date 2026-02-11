@@ -1,3 +1,16 @@
+Citation version 1:
+"Verein für Deutsche Statistik: Zeitschrift des Vereins für Deutsche
+Statistik. 2. 1848"
+https://www.digitale-sammlungen.de/de/view/bsb10709532?page=1142
+
+Citation version 2:
+https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991025457649707356&context=L&vid=49BVB_BSB:VU1
+Zeitschrift des Vereins für Deutsche Statistik. 2. 1848
+Verein für Deutsche Statistik | GND-ID: (DE-588)82912-2
+1848
+Zeitschrift des Vereins für Deutsche Statistik.
+
+
 Page 1104
 
 On the circumstances of Einlieger in the principalities of Lippe-Detmold
@@ -146,30 +159,34 @@ Page 1107
 bushels of seed, some with cows; The rest were small owners (Hoppenplöcker)
 who owned no land other than the common land that had fallen to them or
 even just their small gardens; in addition, there was also a noble estate
-there. The increase in the number of residents must be seen as a
-consequence of the division of common land that had taken place throughout.
-The lodgers drove their cattle onto the common pastures without further
-ado, so that these, especially since Lippe as a whole has little pasture
-land, were overgrazed and yielded little as pasture. The small landowners
-complained, not without reason, that the larger landowners were making
-disproportionate use of the common land with their own cattle and that of
-their lodgers. These constant complaints led to the gradual division of the
-common land almost everywhere in order to put an end to the problem. Given
-the dense population of the country and the low yield that the common lands
-generally produced in this sparsely irrigated area, the division may have
-been expedient insofar as it gained new land for cultivation, even if it
-did not improve the situation of the tenants. We are not in favor of the
-unconditional division of common land, as was mostly the case in the
-Principality of Osnabrück, without there being any need for it. Rather, we
-believe that a limited division, appropriate to the increased population,
-would have brought greater advantages. However, we readily acknowledge that
-in Lippe, where such large commons as we have here did not exist at all,
-the circumstances were significantly different. Since the terrain in Lippe
-is not very suitable for grazing, the divided commons, if cultivated, will
-certainly yield on average twice as much as was previously the case. Of
-course, there will still be some areas that are either completely
-unsuitable for cultivation or will only yield a harvest if existing
-productive forces can be introduced to stimulate new ones.
+there.
+
+As a consequence of the increase in the number of Einlieger, the common
+land had to be shared. The Einlieger drove their cattle onto the common
+pastures without further ado, so that these, especially since the Lippe
+region as a whole has little pasture land, were overgrazed by the cattle
+and yielded little as grazing land. It was not without reason that small
+landowners complained that the larger ones, with their own cattle and that
+of their lodgers, were using the common land disproportionately. These
+constant complaints led to the common land being divided up almost
+everywhere in order to put an end to this. Given the dense population of
+the country and the low yield that the commons generally provided in this
+sparsely irrigated area, the division may have been expedient insofar as it
+gained new terrain for cultivation, even if it did not improve the
+situation of the Einlieger. We are not in favor of the unconditional
+division of common land, as was mostly the case in the Principality of
+Osnabrück, without there being any need for it, but rather believe that a
+limited division, appropriate to the increased population, would have
+brought greater advantages; however, we readily acknowledge that in Lippe,
+where such large commons as exist here did not exist at all, the conditions
+were significantly different. Since the terrain in Lippe is not very
+suitable for grazing, the divided commons, if cultivated, will certainly
+yield on average twice as much as was previously the case. Of course, some
+areas will remain that are either completely unsuitable for cultivation or
+will only yield if existing productive forces can be introduced to
+stimulate new ones.
+
+<-- RESUME HERE
 
 2. The sources of income of the tenant farmers.
 
