@@ -147,11 +147,12 @@ usually furnished for two families. They can now be found on almost all
 farms. The following example shows the extent to which this landless
 population of Einlieger has increased in the Lippe region in recent times.
 A farm owner told me that in 1772, when his grandfather married into the
-farm he now owns, there were only 5-6 Einlieger in the village; in 1846,
-however, when he compiled the list of Einlieger, their number had risen to
-110; the number of landowners, on the other hand, was relatively small;
-among the 39, there were only 10 larger peasant farmers who kept four or more
-horses, and 10 others, each of whom plowed 20–60 (Lippe)
+farm he now owns, there were only 5-6 Einlieger (lodgers) in the village;
+in 1846, however, when he compiled the list of Einlieger (lodgers), their
+number had risen to 110; the number of landowners, on the other hand, was
+relatively small; among the 39, there were only 10 larger peasant farmers
+who kept four or more horses, and 10 others, each of whom plowed 20–60
+(Lippe)
 
 Page 1107
 
@@ -159,12 +160,12 @@ bushels of seed, some with cows; The rest were small owners (Hoppenplöcker)
 who owned no land other than the common land that had fallen to them or
 even just their small gardens; in addition, there was also a noble estate
 there.
-<--RESUME
+
 As a consequence of the increase in the number of Einlieger, the common
-land had to be shared. The Einlieger drove their cattle onto the common
-pastures without further ado, so that these, especially since the Lippe
-region as a whole has little pasture land, were overgrazed by the cattle
-and yielded little as grazing land. It was not without reason that small
+land had to be shared. The lodgers drove their cattle onto the common
+pastures without restriction, so that these — especially since Lippe as a
+whole possesses little pasture land — were excessively grazed and, as
+pasture, produced very little return.  It was not without reason that small
 landowners complained that the larger ones, with their own cattle and that
 of their lodgers, were using the common land disproportionately. These
 constant complaints led to the common land being divided up almost
@@ -185,18 +186,18 @@ areas will remain that are either completely unsuitable for cultivation or
 will only yield if existing productive forces can be introduced to
 stimulate new ones.
 
-<-- RESUME HERE
-
 2. The sources of income of the tenant farmers.
 
 The manual laboring classes in the Principality of Lippe, which include not
-only the lodgers but also the small landowners who live in the same
-circumstances, earn their livelihood primarily from the linen industry and
-then from brickwork abroad.
+only the Einlieger (lodgers) but also the small landowners who live in the
+same circumstances, earn their livelihood primarily from the linen industry
+and then from brickwork abroad.
+
+<-- RESUME HERE
 
 a. In the aforementioned document “On the situation of day laborers, etc.,”
 we have expressed our views on the decline of the linen industry in
-general.  What we reported also applies to the Lippe region ; at present, a
+general. What we reported also applies to the Lippe region; at present, a
 family engaged in manual labor, even with all diligence, can no longer earn
 a living from the domestic industry in flax or hemp due to the spread of
 machine spinning and weaving. Spinning and weaving can currently only be
