@@ -9,7 +9,7 @@ Zeitschrift des Vereins für Deutsche Statistik. 2. 1848
 Verein für Deutsche Statistik | GND-ID: (DE-588)82912-2
 1848
 Zeitschrift des Vereins für Deutsche Statistik.
-
+------------
 Page 1104
 
 On the circumstances of Einlieger in the principalities of Lippe-Detmold
@@ -38,6 +38,7 @@ and Rackhorst in Osnabrück. — The following article has been prepared on
 the basis of private communications received.
 
 Page 1105
+TODO: Why is there a 2nd number in parentheses in the next line?
 
 In 1834, the population was 98,428 (97,720), and by 1840 it had risen to
 104,462, so that the average increase in population can be assumed to be
@@ -55,37 +56,35 @@ peculiar circumstances that enable the country to feed such a dense
 population, especially since trade and factories are not of great
 importance. These very peculiar circumstances will become apparent to us
 when we consider the situation of the so-called Einlieger, who until
-recently were considered in this journal (p. 639) as not having the right
+recently were considered in this journal (p. 639) as not having the right <--TODO: "in this journal"?
+
 to vote in municipal affairs.
 
 1. Origin of the Einlieger.
 
 Since the end of the last century, the landless rural population in the
 Principality of Lippe has grown to such an extent that, as is the case in
-the Principality of Osnabrück, it now exceeds the number of landowners by a
-factor of two on average.  As these landless rural dwellers are called
-"Heuerleute" or "Heuerlinge" in our region, from "heuern" (to hire), i.e.
-to rent for a year (this year), they are called "Einlieger" in Lippe
-because they live with others, i.e. reside with them.  These "Einlieger,"
-to whom rent for a year (heuern = this year), they are called Einlieger in
-Lippe because they live with others, i.e., they reside with them. These
-Einlieger, who currently make up about two-thirds of the total rural
-population, were found in very small numbers in the Principality of Lippe
-until the middle of the last century, and in some areas, not at all. Until
-then, the younger sons of farm owners who did not have the opportunity to
-marry into other farms or move into other circumstances either settled on
-uncultivated land in a village or built their own homes in the common lands
-belonging to the village, also known as heaths.  In this way, many small
-landowners emerged, and even, as the common lands were gradually
-cultivated, small villages were formed, which were then usually named after
-the villages or estates from which the colonization originated (Hölser-,
-Herser-, Wülferheide, etc.).  In general, there is in Lippe a tendency to
-live together in villages rather than in scattered rural communities, as is
-more typical of Westphalia proper, where farmsteads are separated from one
-another by greater or lesser distances. However, the villages in Lippe are
-not as compact as those found in regions where the Engern and Eastphalian
-settlement forms, in contrast to the Westphalian, appear in their clearly
-defined form.
+the Principality of Osnabrück, it now outnumbers the landowning population
+by a factor of two on average. Just as these landless rural dwellers are
+called Heuerleute or Heuerlinge in our region, from heuern, meaning to rent
+for a year (heuer = this year), they are called Einlieger in Lippe because
+they live with others, i.e., they are lodgers. These Einlieger, who
+currently make up about two-thirds of the total rural population, were very
+few in number in the Principality of Lippe until the middle of the last
+century, and in some areas they did not exist at all. Until then, the
+younger sons of farm owners who did not have the opportunity to marry into
+other farms or move into other circumstances either settled on a piece of
+land in a village that had not yet been cultivated or built their own homes
+on the common land belonging to the village, also known as “Heiden.” In
+this way, many small landowners emerged, and as the common lands were
+gradually cultivated, small settlements formed, which were then usually
+named after the villages or estates from which the colonization originated
+(Hölser, Herser, Wülferheide, etc.). In general, there is a tendency in
+Lippe to live together in villages rather than in farming communities, as
+is more the case in Westphalia proper, where the farms are more or less
+separated from each other. Meanwhile, the villages in Lippe are not as
+closed as those found in the Engern and Eastphalian regions, where the
+contrast to Westphalia is very clear.
 
 MY COMMENTS: Einlieger comes from the now obsolete regional verb einliegen
 that had the mean of "to reside in someone else’s dwelling; to live as a
