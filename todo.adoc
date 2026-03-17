@@ -4,8 +4,9 @@
 
 Reintroduce page numbers.
 
-Phases I and II are done. Doing pahse 3. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
+Phases I and II are done. We are now doing phase 3. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
 
+.Phase three page range completed
 |===
 |Page range completed
 
