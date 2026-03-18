@@ -51,7 +51,7 @@ Result: a modernized but structurally faithful text.
 
 This is another part of a multi-part transliteration of an 1848 German
 Fraktur article titled "Über die Verhältnisse der Einlieger in den
-Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please translate it
+Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please rewrite it translate it
 paragraph by paragraph into English. Do not paraphrase. Do not summarize or
 abridge. The goal is a easier to read text than the trasnliterated German
 text, so that it is more understandable. To achieve this aim, you should do
