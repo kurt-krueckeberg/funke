@@ -1,5 +1,8 @@
 = TODO
 
+Redo phase 3, the translation. Phases 1 and 2 have been done on all the
+p11xx.txt files.
+
 == Phase III
 
 Phases I and II are done. We are now doing phase 3. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
