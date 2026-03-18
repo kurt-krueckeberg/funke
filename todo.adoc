@@ -47,7 +47,7 @@ Then we:
 
 Result: a modernized but structurally faithful text.
 
-=== Phase 3 — Idiomatic Modern German
+=== Phase 3 — Idiomatic Modern English Translation
 
 This is another part of a multi-part transliteration of an 1848 German
 Fraktur article titled "Über die Verhältnisse der Einlieger in den
