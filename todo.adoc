@@ -2,8 +2,6 @@
 
 == Phase III
 
-Reintroduce page numbers.
-
 Phases I and II are done. We are now doing phase 3. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
 
 .Phase three page range completed
@@ -12,6 +10,8 @@ Phases I and II are done. We are now doing phase 3. See: https://chatgpt.com/sha
 
 |1104-1109 
 |===
+
+Also reintroduce page numbers.
 
 == Phases of Corrections to the Funke Document
 
@@ -25,7 +25,7 @@ The fourth phase is to use Deepl.com to translated it.
 
 Proofread each image against your transliteration and:
 
-* Correct paleographic errors
+* Correct paleographic/transliteration errors
 
 * Resolve ambiguous readings
 
@@ -49,13 +49,13 @@ Result: a modernized but structurally faithful text.
 
 === Phase 3 — Idiomatic Modern German
 
-This is another part of a multi-part transliteration of an 1848
-German Fraktur article entitled " Über die Verhältnisse der Einlieger in
-den Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please translate it
-paragraph by paragraph into English. Do not paraphrase. Do
-not summarize or abridge. The goal is a easier to read text than the German
-text, so that it is more understandable. To achieve this aim, you
-should do this:
+This is another part of a multi-part transliteration of an 1848 German
+Fraktur article titled "Über die Verhältnisse der Einlieger in den
+Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please translate it
+paragraph by paragraph into English. Do not paraphrase. Do not summarize or
+abridge. The goal is a easier to read text than the trasnliterated German
+text, so that it is more understandable. To achieve this aim, you should do
+this:
 
 1. Modernize syntax and phrasing
 2. Keep all content
