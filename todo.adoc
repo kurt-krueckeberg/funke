@@ -53,6 +53,9 @@ Result: a modernized but structurally faithful text.
 
 === Phase 3 — Idiomatic Modern English Translation
 
+combined.txt all the complete document that has gone through pahses I and
+II. It now only needs to be translated.
+
 This is another part of a multi-part transliteration of an 1848 German
 Fraktur article titled "Über die Verhältnisse der Einlieger in den
 Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please rewrite it
