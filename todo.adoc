@@ -5,13 +5,14 @@ p11xx.txt files.
 
 == Phase III
 
-Phases I and II are done. We are now doing phase 3. See: https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
+Phases I and II are done. We are now doing phase 3. See:
+https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
 
-.Phase three page range completed
+.Recheck of phases I and II
 |===
 |Page range completed
 
-|1104-1122 
+|1104-1108 
 |===
 
 Also reintroduce page numbers.
@@ -54,11 +55,11 @@ Result: a modernized but structurally faithful text.
 
 This is another part of a multi-part transliteration of an 1848 German
 Fraktur article titled "Über die Verhältnisse der Einlieger in den
-Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please rewrite it translate it
-paragraph by paragraph into English. Do not paraphrase. Do not summarize or
-abridge. The goal is a easier to read text than the trasnliterated German
-text, so that it is more understandable. To achieve this aim, you should do
-this:
+Fürstentümern Lippe-Detmold und Schaumburg-Lippe". Please rewrite it
+translate it paragraph by paragraph into English. Do not paraphrase. Do not
+summarize or abridge. The goal is a easier to read text than the
+trasnliterated German text, so that it is more understandable. To achieve
+this aim, you should do this:
 
 1. Modernize syntax and phrasing
 2. Keep all content
