@@ -6,8 +6,9 @@ Das Fürstentum Lippe-Detmold ernährt nach der Zählung von 1846 (Zeitschrift
 für deutsche Statistik 1847, S. 1059) auf 20,6 Quadratmeilen 106.046
 Einwohner.
 
-**Original footnote marked `*)`**
-> `*)` In der Vorrede zu meiner Schrift: „Über die gegenwärtige Lage der
+> **Original footnote marked `*)`**:
+>
+> In der Vorrede zu meiner Schrift: „Über die gegenwärtige Lage der
 > Heuerleute im Fürstentum Osnabrück mit besonderer Beziehung auf die
 > Ursachen ihres Verfalls und mit Hinblick auf die Mittel zu ihrer Erhebung.
 > Bielefeld 1847.“ hatte ich zu Mitteilungen über die Lage der besitzlosen
