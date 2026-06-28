@@ -1,21 +1,29 @@
-2. Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe*)
+# Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe [Original footnote marker: `*)`], vom Pastor Georg Funke in Menslage bei Osnabrück.
 
-Vom Pastor Georg Funke in Menslage bei Osnabrück.
+## II. Lippe-Detmold
 
 Das Fürstentum Lippe-Detmold ernährt nach der Zählung von 1846 (Zeitschrift
 für deutsche Statistik 1847, S. 1059) auf 20,6 Quadratmeilen 106.046
 Einwohner.
 
-*) In der Vorrede zu meiner Schrift: „Über die gegenwärtige Lage der
-Heuerleute im Fürstentum Osnabrück mit besonderer Beziehung auf die
-Ursachen ihres Verfalls und mit Hinblick auf die Mittel zu ihrer Erhebung.
-Bielefeld 1847.“ hatte ich zu Mitteilungen über die Lage der besitzlosen
-ländlichen Bevölkerung im nordwestlichen Deutschland aufgefordert, da ich
-die Verhältnisse dieser in großer Not lebenden Volksklasse umfassender
-darzustellen gedenke. Von manchen Seiten sind mir bereits solche
-Mitteilungen zu-
-Funke: Über die Verhältnisse der Einlieger in Lippe-Detmold und
-Schaumburg-Lippe. 1105
+**Original footnote marked `*)`**
+> `*)` In der Vorrede zu meiner Schrift: „Über die gegenwärtige Lage der
+> Heuerleute im Fürstentum Osnabrück mit besonderer Beziehung auf die
+> Ursachen ihres Verfalls und mit Hinblick auf die Mittel zu ihrer Erhebung.
+> Bielefeld 1847.“ hatte ich zu Mitteilungen über die Lage der besitzlosen
+> ländlichen Bevölkerung im nordwestlichen Deutschland aufgefordert, da ich
+> die Verhältnisse dieser in großer Not lebenden Volksklasse umfassender
+> darzustellen gedenke. Von manchen Seiten sind mir bereits solche
+> Mitteilungen zu-
+> Funke: Über die Verhältnisse der Einlieger in Lippe-Detmold und
+> Schaumburg-Lippe. 1105
+> gegangen, wofür ich hier öffentlich meinen Dank ausspreche; doch fehlen sie
+> auch noch aus sehr vielen Gegenden. Ich wiederhole daher nochmals meine
+> früher ausgesprochene Bitte und bemerke zugleich, dass solche Mitteilungen,
+> für welche ich mich demnächst durch Übersendung der beabsichtigten Schrift
+> dankbar beweisen werde, auf buchhändlerischem Wege durch die Herren Hahn in
+> Hannover und Rackhorst in Osnabrück sicher an mich gelangen. —
+> Nachfolgender Artikel ist nach eingegangenen Privatmitteilungen bearbeitet.
 
 Im Jahre 1834 betrug die Volkszahl 98.428 (97.720), und 1840 war sie auf
 104.462 gestiegen, so dass man als mittlere Durchschnittszunahme der
@@ -37,7 +45,7 @@ Verhältnisse werden uns entgegentreten, wenn wir die Lage der sogenannten
 Einlieger betrachten, derer noch unlängst in dieser Zeitschrift (S. 639)
 als nicht stimmberechtigt in Gemeindeangelegenheiten gedacht wurde.
 
-1. Entstehung der Einlieger
+### 1. Entstehung der Einlieger
 
 Die besitzlose ländliche Bevölkerung hat sich im Fürstentum Lippe seit dem
 Ende des vorigen Jahrhunderts in dem Grade vermehrt, dass sie, ebenso wie
@@ -72,16 +80,7 @@ Gemeinheiten, mit geringen Ausnahmen außer etwas Gartenland, welches ihnen
 wahrscheinlich gleich zugeteilt wurde, als sie die Erlaubnis erhielten,
 sich anzubauen, so gut wie gar keine Ländereien.
 
-[Fußnote fortgesetzt]
-
-gegangen, wofür ich hier öffentlich meinen Dank ausspreche; doch fehlen sie
-auch noch aus sehr vielen Gegenden. Ich wiederhole daher nochmals meine
-früher ausgesprochene Bitte und bemerke zugleich, dass solche Mitteilungen,
-für welche ich mich demnächst durch Übersendung der beabsichtigten Schrift
-dankbar beweisen werde, auf buchhändlerischem Wege durch die Herren Hahn in
-Hannover und Rackhorst in Osnabrück sicher an mich gelangen. —
-Nachfolgender Artikel ist nach eingegangenen Privatmitteilungen bearbeitet.
-V. Statistik einzelner Verhältnisse des Staats- und Volkslebens. 1106
+[V. Statistik einzelner Verhältnisse des Staats- und Volkslebens. 1106]
 
 Anfänglich ernährten sie sich durch Tagelöhnerarbeit auf den Bauernhöfen,
 wohin sie auch ihre Kinder als Dienstboten vermieteten. Bei der weiteren
@@ -174,14 +173,14 @@ werden freilich übrig bleiben, die der Kultur entweder ganz widerstreben
 oder doch nur dann Ertrag geben, wenn bereits vorhandene Produktionskräfte
 hineingeleitet werden können, um neue zu wecken.
 
-2. Die Erwerbsquellen der Einlieger.
+### 2. Die Erwerbsquellen der Einlieger.
 
 Die handarbeitenden Volksklassen im Fürstentum Lippe, wozu außer den
 Einliegern auch die kleinen Grundeigner zählen, die in denselben
 Verhältnissen leben, ernähren sich vorzüglich durch die Leinenindustrie und
 sodann durch die Ziegelarbeit im Ausland.
 
-a. In der bereits angeführten Schrift „über die Lage der Heuerleute etc.“
+**a.** In der bereits angeführten Schrift „über die Lage der Heuerleute etc.“
 haben wir uns über den Verfall der Leinenindustrie im Allgemeinen
 ausgesprochen. Das, was wir mitteilten, hat auch für das Lippesche seine
 Gültigkeit; gegenwärtig kann sich eine handarbeitende Familie selbst bei
@@ -250,7 +249,7 @@ vieles zu wünschen übrig; auf das Spinnen hat man in der letzten Zeit
 jedoch mehr Sorgfalt verwandt. Wird allerdings mit zwei Händen gesponnen,
 so kann nur sehr ordinäres Garn geliefert werden.
 
-b. Eine ganz eigentümliche Erwerbsquelle für die lippische handarbeitende
+**b.** Eine ganz eigentümliche Erwerbsquelle für die lippische handarbeitende
 Volksklasse ist die Ziegelarbeit im Ausland oder das sogenannte
 Hollandsgehen. Wie man hier im nördlichen Osnabrückischen die Torfbaggerer,
 die nach Holstein, Schleswig, Brandenburg, Ost- und Westpreußen sowie nach
@@ -263,6 +262,7 @@ gehen Lipper als Torfbaggerer nach Westfriesland und Groningen, seltener
 als Handarbeiter anderer Art, z. B. als Grasmäher, Gärtner, Maurer,
 Zimmerleute, Leimkocher usw., wie dieses im Fürstentum Osnabrück der Fall
 ist.
+
 Die Ziegelarbeiten sind seit alten Zeiten von den unteren Volksklassen im
 Fürstentum Lippe betrieben worden, seit ungefähr 25 Jahren sind sie von den
 kleinen Grundeignern mehr auf die Einlieger übergegangen. Infolge der
@@ -302,7 +302,7 @@ im Torfbaggern. Der Verdienst ist geringer, dagegen bleiben diese
 Torfbaggerer auch weniger lange von ihrer Heimat entfernt. In ungefähr drei
 Monaten verdienen sie jetzt 15–20, höchstens 25 Taler; sie ziehen im April
 fort und kehren gegen Ende Juni oder Juli wieder zurück. Ihre Arbeit jedoch
-ist saurer und ungesunder, da sie im Nassen geschehen muss.*)
+ist saurer und ungesunder, da sie im Nassen geschehen muss. [Original footnote marker: *)]
 
 *) Ref. hat den klassischen Boden des Fürstentums Lippe, auf welchem einst
 Hermann den Varus schlug, und wo sich jetzt auf dem Gipfel des
@@ -898,6 +898,8 @@ entsprechenden Verwertung kommen können. Wir glauben die Behauptung
 hinstellen zu dürfen, dass dieser Boden im Fürstentum Lippe fehlt und auch
 wenig Gelegenheit geboten wird, ihn durch innere Kolonisation, wie solches
 noch in anderen Ländern möglich ist, zu gewinnen.
+
+## II. Schaumburg-Lippe
 
 II. Im Fürstentum Schaumburg-Lippe befinden sich die Einlieger in einem
 weit günstigeren Verhältnis als in Lippe-Detmold, was schon daraus folgt,
