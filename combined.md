@@ -80,7 +80,7 @@ Gemeinheiten, mit geringen Ausnahmen außer etwas Gartenland, welches ihnen
 wahrscheinlich gleich zugeteilt wurde, als sie die Erlaubnis erhielten,
 sich anzubauen, so gut wie gar keine Ländereien.
 
-[V. Statistik einzelner Verhältnisse des Staats- und Volkslebens. 1106]
+[V. Statistik einzelner Verhältnisse des Staats- und Volkslebens. Seite 1106]
 
 Anfänglich ernährten sie sich durch Tagelöhnerarbeit auf den Bauernhöfen,
 wohin sie auch ihre Kinder als Dienstboten vermieteten. Bei der weiteren
