@@ -6,7 +6,7 @@ According to the census of 1846, the Principality of Lippe-Detmold supports
 106,046 inhabitants on 20.6 square miles (*Zeitschrift für deutsche
 Statistik[^1], 1847, p. 1059).
 
-[^1]:) In the preface to my work, *On the Present Condition of the Heuerleute
+[^1]: In the preface to my work, *On the Present Condition of the Heuerleute
 in the Principality of Osnabrück, with Special Reference to the Causes of
 Their Decline and with a View to the Means of Their Improvement*
 (Bielefeld, 1847), I invited communications concerning the condition of the
