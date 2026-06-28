@@ -300,7 +300,7 @@ im Torfbaggern. Der Verdienst ist geringer, dagegen bleiben diese
 Torfbaggerer auch weniger lange von ihrer Heimat entfernt. In ungefähr drei
 Monaten verdienen sie jetzt 15–20, höchstens 25 Taler; sie ziehen im April
 fort und kehren gegen Ende Juni oder Juli wieder zurück. Ihre Arbeit jedoch
-ist saurer und ungesunder, da sie im Nassen geschehen muss. [Original footnote marker: `*)`]
+ist saurer und ungesunder, da sie im Nassen geschehen muss.`*)`
 
 > **Original footnote marked `*)`**:\
 > Ref. hat den klassischen Boden des Fürstentums Lippe, auf welchem einst
@@ -516,13 +516,15 @@ so gehäuft, dass dieses gar nicht mehr möglich ist. Selbst wenn jetzt jede
 Familie auch nur eine Kuh halten wollte, würde den Einliegern nicht selten
 alles urbare Land übergeben werden müssen. Und auch dann würden sie ohne
 eine Nebenbeschäftigung, durch welche sie sich bares Geld verdienten, nicht
-fertig werden können. Können demnach auch die lippischen Einlieger nicht zu
-kleinen Ackerwirten gemacht werden, so schließt dies doch nicht aus, dass
-ihre Lage verbessert werden kann, wenn ihnen Gelegenheit gegeben wird, den
-gegenwärtigen Verhältnissen gemäß im Ganzen mehr Ackerbau zu treiben, als
-bisher geschehen ist. Deshalb wäre billigerweise zu verlangen, dass
-diejenigen Grundbesitzer, welche Einlieger aufnehmen wollen, denselben zu
-einer angemessenen Wohnung mindestens einen Garten und außerdem einige
+fertig werden können.
+
+Können demnach auch die lippischen Einlieger nicht zu kleinen Ackerwirten
+gemacht werden, so schließt dies doch nicht aus, dass ihre Lage verbessert
+werden kann, wenn ihnen Gelegenheit gegeben wird, den gegenwärtigen
+Verhältnissen gemäß im Ganzen mehr Ackerbau zu treiben, als bisher
+geschehen ist. Deshalb wäre billigerweise zu verlangen, dass diejenigen
+Grundbesitzer, welche Einlieger aufnehmen wollen, denselben zu einer
+angemessenen Wohnung mindestens einen Garten und außerdem einige
 Scheffelsaat Ackerland überließen, im anderen Falle dagegen dieselben gar
 nicht aufnehmen dürften. Dann würden auch nur die größeren Grundbesitzer
 Einlieger aufnehmen, welche in Zeiten der Not für sie sorgen und ihnen
@@ -553,12 +555,10 @@ Vermehrung der Einlieger von Jahr zu Jahr zu, so kann davon nur eine
 allgemeine Verarmung die Folge sein. Diese wird umso eher eintreten, wenn
 auch der auswärtige Verdienst, was schon seit einigen Jahren geschehen ist,
 geringer wird. Die Zahl der periodischen Auswanderer muss dann abnehmen —
-wie nun aber, wenn die Zurückbleibenden auch im Lande nicht dauernd
-
-Zeitschrift des Vereins für deutsche Statistik. II. Jahrgang.
-und hinreichend beschäftigt werden können, und die Hofbesitzer noch dazu
-fremde Knechte in das Land ziehen, weil die einheimischen die Ackerarbeiten
-nicht verstehen?
+wie nun aber, wenn die Zurückbleibenden auch im Lande nicht dauernd und
+hinreichend beschäftigt werden können, und die Hofbesitzer noch dazu fremde
+Knechte in das Land ziehen, weil die einheimischen die Ackerarbeiten nicht
+verstehen?
 
 Teilweise würde dem abzuhelfen sein, wenn die Friesländer, ehe sie
 periodisch auswandern oder auch nachher wenigstens einige Jahre im Lande
@@ -801,7 +801,7 @@ Verhältnisse bemerken wir noch, dass das neue seit 1841 eingeführte
 Gemeindegesetz nicht günstig auf die Stimmung der Einlieger zu wirken
 scheint. Sie sind durch dasselbe zwar materiell nicht benachteiligt; es ist
 vielmehr das sog. Einliegergeld von 1½ Taler auf ½ Taler herabgesetzt, und
-es wird noch dazu bei dessen Erhebung mit vieler Rücksicht verfahren*);
+es wird noch dazu bei dessen Erhebung mit vieler Rücksicht verfahren`*)`;
 auch werden von den sieben Contributions-Simplen je zu 5.500 Taler an die
 Amtsgemeindekassen zwei zum Kommunalwegbau und zur Armenversorgung
 verwiesen, wodurch ein regeres Leben in den Gemeinden hervorgerufen und
@@ -820,17 +820,26 @@ eingestanden werden, dass namentlich an volkreichen Orten ein durchaus
 verkehrter Geist unter ihnen herrscht, sodass gar viele schon darauf
 pochen, dass sie unterhalten werden müssen.
 
+> **Original footnote marked `*)`**:\
+> *) Die indirekten Abgaben sind indessen durch den Anschluss an den
+> Zollverein auch für die Einlieger betroffen worden.
+
+> **Original footnote marked `**)`**:\
+> `**)` Vgl. Antze über
+> die Verfassung des Fürstentums Lippe in Bülau’s Jahrbücher für Geschichte
+> und Politik. 1844. Heft VII.
+
 Wären die Einlieger dem Dorfsgemeinde-Verband angemessen eingefügt und
 wären sie im Dorfsgemeinderat nach ihren Verhältnissen auch vertreten, so
 würde dadurch jedenfalls auf ihre Stimmung wohltätig eingewirkt werden.
 Ganz besonders müsste es Zutrauen erwecken, wenn an den
-Gemeinderats-Versammlungen, in welchen auch über die zweckmäßige
-Verwendung der zugewiesenen Gelder verhandelt wird, auch einige einsichtige
-Einlieger teilnähmen, wodurch das Institut des Gemeinderats nur würde
-gewinnen können. Wahrscheinlich würde dann auch eine zweckmäßigere und
-weniger missliebige Einrichtung des Armenwesens zustande kommen. Jedenfalls
-darf in dem bisher befolgten System nicht länger fortgefahren werden; denn
-die Kosten des Armenwesens haben sich in dem letzten Jahrzehnt, oft in noch
+Gemeinderats-Versammlungen, in welchen auch über die zweckmäßige Verwendung
+der zugewiesenen Gelder verhandelt wird, auch einige einsichtige Einlieger
+teilnähmen, wodurch das Institut des Gemeinderats nur würde gewinnen
+können. Wahrscheinlich würde dann auch eine zweckmäßigere und weniger
+missliebige Einrichtung des Armenwesens zustande kommen. Jedenfalls darf in
+dem bisher befolgten System nicht länger fortgefahren werden; denn die
+Kosten des Armenwesens haben sich in dem letzten Jahrzehnt, oft in noch
 kürzerer Zeit, verdoppelt. In dem Amte S. mit circa 10.000 Einw. betragen
 sie gegenwärtig jährlich gegen 2.500 Taler, und trotzdem hat die Bettelei
 nicht aufgehört, ungeachtet Polizeidiener besonders besoldet werden, um
@@ -848,13 +857,7 @@ im lippischen erkannt wird, dass dieser die Leitung nicht hätte entzogen
 werden sollen, wie geschehen ist. Zu einer solchen Kommission würden dann
 auch die nach dem Vorbilde der alten Kirche einzusetzenden Armenpfleger
 (Diakonen), von welchen einem jeden ein bestimmter Bezirk zur speziellen
-Pflege
-
-*) Die indirekten Abgaben sind indessen durch den Anschluss an den
-Zollverein auch für die Einlieger betroffen worden.  **) Vgl. Antze über
-die Verfassung des Fürstentums Lippe in Bülau’s Jahrbücher für Geschichte
-und Politik. 1844. Heft VII.
-anzuweisen wäre, gehören müssen. Die Schrift von Chalmers über die
+Pflege anzuweisen wäre, gehören müssen. Die Schrift von Chalmers über die
 kirchliche Armenpflege, deutsch bearbeitet von O. v. Gerlach, möchten wir
 in dieser Hinsicht sehr zur Berücksichtigung empfehlen, zumal da aus
 derselben zu ersehen ist, wie auch mit geringen Mitteln sehr viel geschehen
@@ -872,7 +875,7 @@ als man je zu ersetzen imstande sein wird. Man wird also oft nur die Not
 vergrößern, wenn man sie zu lindern meint.
 
 Wie überall im nordwestlichen Deutschland, so haben auch im Lippischen in
-der letzten Zeit die Auswanderungen nach Amerika sehr überhand genommen*);
+der letzten Zeit die Auswanderungen nach Amerika sehr überhand genommen`*)`;
 doch hat sich trotz derselben die Bevölkerung noch immer vermehrt. Obwohl
 indes die Lust zur Auswanderung groß ist, so fehlt den Einliegern, zumal
 wenn sie Familie haben, dazu meistens das erforderliche Vermögen.
@@ -897,6 +900,13 @@ hinstellen zu dürfen, dass dieser Boden im Fürstentum Lippe fehlt und auch
 wenig Gelegenheit geboten wird, ihn durch innere Kolonisation, wie solches
 noch in anderen Ländern möglich ist, zu gewinnen.
 
+> **Original footnote marked `*)`**:\
+> `*)` Mehrere Grundbesitzer sind, wie es heißt, ausgewandert, weil das
+> Konsistorium statt des Heidelberger Katechismus den Gemeinden das wässerige
+> Lehrbuch eines früheren General-Superintendenten aufgezwungen hat. Vgl.
+> Janus von 1847. Bd. I. S. 757.
+
+
 ## II. Schaumburg-Lippe
 
 II. Im Fürstentum Schaumburg-Lippe befinden sich die Einlieger in einem
@@ -911,10 +921,6 @@ Wohlstand zurückwirkt. Zwar hat sich die Bevölkerung verhältnismäßig stärk
 als in Lippe vermehrt; doch sind aus dieser Vermehrung weniger nachteilige
 Folgen für den Wohlstand des Landes hervorgegangen,
 
-*) Mehrere Grundbesitzer sind, wie es heißt, ausgewandert, weil das
-Konsistorium statt des Heidelberger Katechismus den Gemeinden das wässerige
-Lehrbuch eines früheren General-Superintendenten aufgezwungen hat. Vgl.
-Janus von 1847. Bd. I. S. 757.
 indem einmal im Lande selber mehr Erwerbsquellen fließen und sodann die
 Einwohnerzahl keineswegs in einem Missverhältnis zum kultivierten Boden
 steht. Das Fürstentum Schaumburg-Lippe gehört zu den gesegnetsten
