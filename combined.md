@@ -797,7 +797,9 @@ die Gründung solcher Hausstände erlaubt wurde, von welchen man im Voraus
 überzeugt sein musste, dass sie nicht würden bestehen können, und durch
 welche die Armut in einem solchen Grade vermehrt wurde, dass die größte
 Mildtätigkeit der Bemittelten ihr keine Abhilfe zu leisten vermag. Vgl. die
-o. a. Schrift S. 45 ff. In besonderer Beziehung auf die lippischen
+o. a. Schrift S. 45 ff.
+
+In besonderer Beziehung auf die lippischen
 Verhältnisse bemerken wir noch, dass das neue seit 1841 eingeführte
 Gemeindegesetz nicht günstig auf die Stimmung der Einlieger zu wirken
 scheint. Sie sind durch dasselbe zwar materiell nicht benachteiligt; es ist
