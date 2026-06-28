@@ -1,22 +1,5 @@
 = TODO
 
-Redo phase 3, the translation. Phases 1 and 2 have been done on all the
-p11xx.txt files.
-
-== Phase III
-
-Phases I and II are done. We are now doing phase 3. See:
-https://chatgpt.com/share/699e06cc-46f0-8004-8da3-7c1b8bcd1109
-
-.Recheck of phases I and II
-|===
-|Page range completed
-
-|1104-1121 
-|===
-
-Also reintroduce page numbers.
-
 == Phases of Corrections to the Funke Document
 
 The goal is to first have a completely accurate transliteration, thereafter
@@ -71,3 +54,11 @@ this aim, you should do this:
 
 Display the entire result, the entire modernize translation.
 
+== Status of the Effort
+
+I discovered that some paragraph starts and ends were not reflected in the
+combined transliteration. I therefore manually inspected the original
+digital images and compared them to `combined.md` to make sure its
+paragraphs match the actual text.
+
+While complete, it should be double checked!
