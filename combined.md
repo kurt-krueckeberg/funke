@@ -471,7 +471,7 @@ wenig für die Bedürfnisse der Tagelöhner tun, welche dann umso übler daran
 sind, da sie wegen der eingegangenen Arbeitsverpflichtung immer bereit sein
 müssen und deshalb behindert sind, anderweitig ihrem Verdienst nachzugehen.
 
-3. Die Verbesserung der Lage der Einlieger
+## 3. Die Verbesserung der Lage der Einlieger
 
 Ob und wie die Lage der Einlieger verbessert werden kann, darüber lässt
 sich zwar manches sagen; ein durchgreifendes Mittel fehlt im Lippischen
@@ -778,48 +778,48 @@ nicht, wenn dies geschieht, die Sitten verwildern und alle Lebensregungen
 verloren gehen, so dass jener Weg, der aufwärts geht, nicht gefunden wird?
 
 Um der ungemessenen Vermehrung der besitzlosen Volksklasse in Lippe
-entgegenzuwirken, scheint es uns durchaus notwendig zu sein, dass gesetzliche
-Bestimmungen getroffen werden, nach welchen es allen Verpächtern untersagt
-wird, Einlieger aufzunehmen, wenn ihnen nicht das nach den lokalen
-Verhältnissen notwendige Garten-, Acker- und Grünland gegeben werden kann.
-Es scheint uns dieses ebensowenig eine Beschränkung der individuellen
-Freiheit zu sein, als wenn man im Interesse des allgemeinen Wohls einem
-Hausbesitzer auferlegt, seine häusliche Einrichtung so zu treffen, dass sie
-nicht feuergefährlich ist. Auch würde jungen Leuten der Konsens zur
-Verheiratung nicht zu erteilen sein, falls keine Garantien vorhanden
-sind, dass sie leben können, vielmehr vorauszusehen ist, dass sie sofort
-verarmen müssen. Wie überhaupt, so können wir auch in Beziehung auf die
-lippischen Einlieger durchaus keine willkürlichen und unnötigen
+entgegenzuwirken, scheint es uns durchaus notwendig zu sein, dass
+gesetzliche Bestimmungen getroffen werden, nach welchen es allen
+Verpächtern untersagt wird, Einlieger aufzunehmen, wenn ihnen nicht das
+nach den lokalen Verhältnissen notwendige Garten-, Acker- und Grünland
+gegeben werden kann.  Es scheint uns dieses ebensowenig eine Beschränkung
+der individuellen Freiheit zu sein, als wenn man im Interesse des
+allgemeinen Wohls einem Hausbesitzer auferlegt, seine häusliche Einrichtung
+so zu treffen, dass sie nicht feuergefährlich ist. Auch würde jungen Leuten
+der Konsens zur Verheiratung nicht zu erteilen sein, falls keine Garantien
+vorhanden sind, dass sie leben können, vielmehr vorauszusehen ist, dass sie
+sofort verarmen müssen. Wie überhaupt, so können wir auch in Beziehung auf
+die lippischen Einlieger durchaus keine willkürlichen und unnötigen
 Erschwerungen der Verheiratung wünschen; nur müssen wir wiederholen, was
 wir schon früher ausgesprochen haben, dass die Not der besitzlosen
 arbeitenden Klasse zum großen Teil dadurch eine große geworden ist, dass
 die Gründung solcher Hausstände erlaubt wurde, von welchen man im Voraus
 überzeugt sein musste, dass sie nicht würden bestehen können, und durch
-welche die Armut in einem solchen
-Grade vermehrt wurde, dass die größte Mildtätigkeit der Bemittelten ihr
-keine Abhilfe zu leisten vermag. Vgl. die o. a. Schrift S. 45 ff. In
-besonderer Beziehung auf die lippischen Verhältnisse bemerken wir noch, dass
-das neue seit 1841 eingeführte Gemeindegesetz nicht günstig auf die
-Stimmung der Einlieger zu wirken scheint. Sie sind durch dasselbe zwar
-materiell nicht benachteiligt; es ist vielmehr das sog. Einliegergeld von
-1½ Taler auf ½ Taler herabgesetzt, und es wird noch dazu bei dessen
-Erhebung mit vieler Rücksicht verfahren*); auch werden von den sieben
-Contributions-Simplen je zu 5.500 Taler an die Amtsgemeindekassen zwei zum
-Kommunalwegbau und zur Armenversorgung verwiesen, wodurch ein regeres Leben
-in den Gemeinden hervorgerufen und Gelegenheit zum Verdienst gegeben
-ist**); nur scheint gerade die Bestimmung, dass das Einliegergeld nebst dem
-einen Contributions-Simplum ebenfalls an die Amtsgemeindekasse verwiesen
-ist und zu öffentlichen Unterstützungen verwandt wird, unter denjenigen
-Einliegern, welche sich durch Fleiß, Ordnung und Sparsamkeit noch bei
-Kräften erhalten, durchaus unpopulär zu sein. Sie äußern ganz offen, dass
-es auch für sie das Geratenste wäre, alles, was sie noch besäßen, nur
-aufgehen zu lassen, weil sie dann nicht bloß von der Bezahlung des
-Einliegergeldes befreit werden würden, sondern noch dazu Unterstützungen zu
-erwarten hätten. Mag nun solche Rede auch bei allen nicht so ganz ernstlich
-gemeint sein, so geht daraus doch wenigstens die Stimmung der Leute hervor,
-und es muss eingestanden werden, dass namentlich an volkreichen Orten ein
-durchaus verkehrter Geist unter ihnen herrscht, sodass gar viele schon
-darauf pochen, dass sie unterhalten werden müssen.
+welche die Armut in einem solchen Grade vermehrt wurde, dass die größte
+Mildtätigkeit der Bemittelten ihr keine Abhilfe zu leisten vermag. Vgl. die
+o. a. Schrift S. 45 ff. In besonderer Beziehung auf die lippischen
+Verhältnisse bemerken wir noch, dass das neue seit 1841 eingeführte
+Gemeindegesetz nicht günstig auf die Stimmung der Einlieger zu wirken
+scheint. Sie sind durch dasselbe zwar materiell nicht benachteiligt; es ist
+vielmehr das sog. Einliegergeld von 1½ Taler auf ½ Taler herabgesetzt, und
+es wird noch dazu bei dessen Erhebung mit vieler Rücksicht verfahren*);
+auch werden von den sieben Contributions-Simplen je zu 5.500 Taler an die
+Amtsgemeindekassen zwei zum Kommunalwegbau und zur Armenversorgung
+verwiesen, wodurch ein regeres Leben in den Gemeinden hervorgerufen und
+Gelegenheit zum Verdienst gegeben ist**); nur scheint gerade die
+Bestimmung, dass das Einliegergeld nebst dem einen Contributions-Simplum
+ebenfalls an die Amtsgemeindekasse verwiesen ist und zu öffentlichen
+Unterstützungen verwandt wird, unter denjenigen Einliegern, welche sich
+durch Fleiß, Ordnung und Sparsamkeit noch bei Kräften erhalten, durchaus
+unpopulär zu sein. Sie äußern ganz offen, dass es auch für sie das
+Geratenste wäre, alles, was sie noch besäßen, nur aufgehen zu lassen, weil
+sie dann nicht bloß von der Bezahlung des Einliegergeldes befreit werden
+würden, sondern noch dazu Unterstützungen zu erwarten hätten. Mag nun
+solche Rede auch bei allen nicht so ganz ernstlich gemeint sein, so geht
+daraus doch wenigstens die Stimmung der Leute hervor, und es muss
+eingestanden werden, dass namentlich an volkreichen Orten ein durchaus
+verkehrter Geist unter ihnen herrscht, sodass gar viele schon darauf
+pochen, dass sie unterhalten werden müssen.
 
 Wären die Einlieger dem Dorfsgemeinde-Verband angemessen eingefügt und
 wären sie im Dorfsgemeinderat nach ihren Verhältnissen auch vertreten, so
