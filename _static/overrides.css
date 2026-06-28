@@ -1,3 +1,10 @@
+.bd-content p,
+.bd-content li,
+.bd-content dd {
+/*  color: #000000; */
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+}
+
 .compact-fee-table tbody tr:nth-child(odd),
 .compact-fee-table tbody tr:nth-child(odd) td {
   background: inherit !important;

@@ -1,7 +1,5 @@
 # Part 2
 
-# Part 2
-
 In 1834 the population was 98,428 (97,720), and by 1840 it had risen to
 104,462, so that one may assume an average annual increase of the
 population of 0.7 percent. On average, 5,148 inhabitants fall to the square
