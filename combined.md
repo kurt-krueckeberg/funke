@@ -81,27 +81,23 @@ Die kleinen später entstandenen Grundbesitzer, Neubauer, Neuwohner oder,
 wie die Volkssprache sie nennt, Hoppenplöcker, besaßen vor der Teilung der
 Gemeinheiten, mit geringen Ausnahmen außer etwas Gartenland, welches ihnen
 wahrscheinlich gleich zugeteilt wurde, als sie die Erlaubnis erhielten,
-sich anzubauen, so gut wie gar keine Ländereien.
-
-[V. Statistik einzelner Verhältnisse des Staats- und Volkslebens. Seite 1106]
-
-Anfänglich ernährten sie sich durch Tagelöhnerarbeit auf den Bauernhöfen,
-wohin sie auch ihre Kinder als Dienstboten vermieteten. Bei der weiteren
-Vermehrung reichte die Arbeit, die sie im Lande fanden, nicht mehr zu ihrer
-Unterhaltung aus; sie suchten daher Arbeit im Ausland und wandten sich, wie
-ihre Nachbarn im eigentlichen Westfalen, nach Holland, Westfriesland,
-Groningen und den angrenzenden Gegenden. Es ist bekannt, dass in jenen
-Zeiten, als der Handelsverkehr in den Vereinigten Niederlanden bedeutend
-war, die Handarbeit hier reichen Gewinn brachte, da es an Arbeitskräften
-fehlte. Sobald die Söhne herangewachsen waren, folgten sie den Vätern nach.
-Durch diese temporäre Auswanderung der arbeitenden Bevölkerung während des
+sich anzubauen, so gut wie gar keine Ländereien.  Anfänglich ernährten sie
+sich durch Tagelöhnerarbeit auf den Bauernhöfen, wohin sie auch ihre Kinder
+als Dienstboten vermieteten. Bei der weiteren Vermehrung reichte die
+Arbeit, die sie im Lande fanden, nicht mehr zu ihrer Unterhaltung aus; sie
+suchten daher Arbeit im Ausland und wandten sich, wie ihre Nachbarn im
+eigentlichen Westfalen, nach Holland, Westfriesland, Groningen und den
+angrenzenden Gegenden. Es ist bekannt, dass in jenen Zeiten, als der
+Handelsverkehr in den Vereinigten Niederlanden bedeutend war, die
+Handarbeit hier reichen Gewinn brachte, da es an Arbeitskräften fehlte.
+Sobald die Söhne herangewachsen waren, folgten sie den Vätern nach.  Durch
+diese temporäre Auswanderung der arbeitenden Bevölkerung während des
 Sommers entstand in deren Heimat ein Mangel an Arbeitern, und zwar
 besonders in der Jahreszeit, in der man auf den Höfen fremder Hilfe
 vorzüglich bedurfte. Ebenso wie bei uns im Osnabrückischen erhoben die
 Hofbesitzer hierüber vielfach Klage und wandten sich auch an die
-Landesregierung, dieser temporären Auswanderung Schranken zu setzen.
-
-Möser sagt in Beziehung hierauf, die Landeigentümer hätten geglaubt, um
+Landesregierung, dieser temporären Auswanderung Schranken zu setzen.  Möser
+sagt in Beziehung hierauf, die Landeigentümer hätten geglaubt, um
 ihretwillen bestünde der Staat. Was Wunder also, dass sie meinten, der
 Staat müsse ihnen durch das Verbot des Hollandsgehens für geringen Lohn
 dienende Arbeiter verschaffen. Übrigens wies – wie im Osnabrückischen, so
@@ -143,38 +139,39 @@ geheiratet habe, sich dort nur 5–6 Einlieger vorgefunden hätten; im Jahre
 110 gestiegen. Die Zahl der Grundbesitzer sei dagegen verhältnismäßig
 gering; unter 39 fänden sich nur 10 größere Kolonen, die vier oder mehr
 Pferde hielten, sowie 10 andere, von denen jeder 20–60 (Lippesche)
-
 Scheffelsaat teilweise mit Kühen beackere; die übrigen seien kleine Eigner
 (Hoppenplöcker), welche weiter keine Grundstücke besäßen als die ihnen
 zugefallenen Gemeinheitsteile oder auch nur ihre kleinen Gärten; außerdem
-finde sich daselbst noch ein adeliges Gut. Als eine Folge der Vermehrung
-der Einlieger muss die durchweg stattgefundene Gemeinheitsteilung
-angesehen werden. Die Einlieger trieben nämlich ihr Vieh ohne Weiteres auf
-die gemeinen Weiden, sodass diese, besonders da das Lippesche im Ganzen nur
-wenig Weideland besitzt, übermäßig vom Vieh betrieben wurden und als Hude
-wenig einbrachten. Nicht mit Unrecht wurde von den kleinen Grundbesitzern
-darüber Beschwerde geführt, dass die größeren mit ihrem eigenen und dem
-hinzugekommenen Vieh ihrer Einlieger die Gemeinheit verhältnismäßig zu sehr
-benutzten. Diese steten Beschwerden sind die Veranlassung geworden, dass man
-fast überall die Gemeinheiten nach und nach geteilt hat, um derselben
-überhoben zu sein. Bei der dichten Bevölkerung des Landes und bei dem
-geringen Nutzen, welchen im Allgemeinen die Gemeinheiten in dieser wenig
-bewässerten Gegend einbrachten, mag die Teilung insofern zweckmäßig
-gewesen sein, als durch dieselbe neues Terrain für den Anbau gewonnen
-wurde, wenn sich die Lage der Einlieger auch nicht dadurch verbessert hat.
-Wir sind zwar nicht für die unbedingte Gemeinheitsteilung, wie sie im
-Fürstentum Osnabrück, ohne dass das Bedürfnis dazu da war, meistens statt
-gefunden hat, glauben vielmehr, dass eine beschränkte Teilung, wie sie der
-vermehrten Population angemessen war, größere Vorteile gebracht hätte;
-indessen erkennen wir gern an, dass im Lippeschen, wo überhaupt solche
-großen Gemeinheiten, wie sie sich hier bei uns vorfinden, gar nicht
-existierten, die Verhältnisse wesentlich verschieden gewesen sind. Da sich
-das Terrain im Lippeschen überhaupt nicht sehr zur Weide eignet, so werden
-die geteilten Gemeinheiten, wenn sie kultiviert werden, gewiss
-durchschnittlich noch einmal so viel eintragen wie früher. Manche Stellen
-werden freilich übrig bleiben, die der Kultur entweder ganz widerstreben
-oder doch nur dann Ertrag geben, wenn bereits vorhandene Produktionskräfte
-hineingeleitet werden können, um neue zu wecken.
+finde sich daselbst noch ein adeliges Gut.
+
+Als eine Folge der Vermehrung der Einlieger muss die durchweg
+stattgefundene Gemeinheitsteilung angesehen werden. Die Einlieger trieben
+nämlich ihr Vieh ohne Weiteres auf die gemeinen Weiden, sodass diese,
+besonders da das Lippesche im Ganzen nur wenig Weideland besitzt, übermäßig
+vom Vieh betrieben wurden und als Hude wenig einbrachten. Nicht mit Unrecht
+wurde von den kleinen Grundbesitzern darüber Beschwerde geführt, dass die
+größeren mit ihrem eigenen und dem hinzugekommenen Vieh ihrer Einlieger die
+Gemeinheit verhältnismäßig zu sehr benutzten. Diese steten Beschwerden sind
+die Veranlassung geworden, dass man fast überall die Gemeinheiten nach und
+nach geteilt hat, um derselben überhoben zu sein. Bei der dichten
+Bevölkerung des Landes und bei dem geringen Nutzen, welchen im Allgemeinen
+die Gemeinheiten in dieser wenig bewässerten Gegend einbrachten, mag die
+Teilung insofern zweckmäßig gewesen sein, als durch dieselbe neues Terrain
+für den Anbau gewonnen wurde, wenn sich die Lage der Einlieger auch nicht
+dadurch verbessert hat.  Wir sind zwar nicht für die unbedingte
+Gemeinheitsteilung, wie sie im Fürstentum Osnabrück, ohne dass das
+Bedürfnis dazu da war, meistens statt gefunden hat, glauben vielmehr, dass
+eine beschränkte Teilung, wie sie der vermehrten Population angemessen war,
+größere Vorteile gebracht hätte; indessen erkennen wir gern an, dass im
+Lippeschen, wo überhaupt solche großen Gemeinheiten, wie sie sich hier bei
+uns vorfinden, gar nicht existierten, die Verhältnisse wesentlich
+verschieden gewesen sind. Da sich das Terrain im Lippeschen überhaupt nicht
+sehr zur Weide eignet, so werden die geteilten Gemeinheiten, wenn sie
+kultiviert werden, gewiss durchschnittlich noch einmal so viel eintragen
+wie früher. Manche Stellen werden freilich übrig bleiben, die der Kultur
+entweder ganz widerstreben oder doch nur dann Ertrag geben, wenn bereits
+vorhandene Produktionskräfte hineingeleitet werden können, um neue zu
+wecken.
 
 ### 2. Die Erwerbsquellen der Einlieger.
 
@@ -441,21 +438,20 @@ einen bäuerlichen Hofbesitzer) in Tagelohn geht, bezahlt in der Regel für
 die Wohnung vier bis sechs und für das nötige Gartenland drei Taler Miete.
 Außerdem erhält er 1½ bis 2 Scheffel Lein gesät, wofür pro Scheffel 1½ bis
 2 Taler, je nach den verschiedenen Gegenden, bezahlt werden. Auch seine
-übrigen Bedürfnisse
-an Holz, Brettern, Ferkeln usw. bezieht er vom Meier. Auch hat er von
-demselben gewöhnlich einige Scheffelsaat Ackerland; doch steht dieses nicht
-vertragsmäßig fest. Der Einlieger ist verpflichtet, so oft es der Meier
-verlangt, bei ihm zu arbeiten, wofür er außer Beköstigung 2½ Sgr. Tagelohn
-erhält. Auf einigen adeligen Gütern und größeren Bauerhöfen ist in neueren
-Zeiten das sogenannte große Tagelohn eingeführt worden, 5–8 Sgr. für den
-Arbeiter täglich, wie es scheint jedoch gerade nicht zum Vorteil für
-denselben. Unbestimmte Dienstleistungen der Einlieger finden nicht statt.
-Indes benutzen Hofbesitzer die Abhängigkeit ihrer Tagelöhner nicht selten
-auf eine ungebührliche Weise. Ganz besonders wäre zu wünschen, dass
-dieselben den Einliegern bessere Wohnungen verschafften; denn diese sind
-mitunter von der Beschaffenheit, dass es der Billigkeit weit angemessener
-wäre, dass die Leute, welche darin ein Jahr aushalten, vier Taler vergütet
-erhielten, als dass sie diesen Betrag zahlen müssen.
+übrigen Bedürfnisse an Holz, Brettern, Ferkeln usw. bezieht er vom Meier.
+Auch hat er von demselben gewöhnlich einige Scheffelsaat Ackerland; doch
+steht dieses nicht vertragsmäßig fest. Der Einlieger ist verpflichtet, so
+oft es der Meier verlangt, bei ihm zu arbeiten, wofür er außer Beköstigung
+2½ Sgr. Tagelohn erhält. Auf einigen adeligen Gütern und größeren
+Bauerhöfen ist in neueren Zeiten das sogenannte große Tagelohn eingeführt
+worden, 5–8 Sgr. für den Arbeiter täglich, wie es scheint jedoch gerade
+nicht zum Vorteil für denselben. Unbestimmte Dienstleistungen der Einlieger
+finden nicht statt.  Indes benutzen Hofbesitzer die Abhängigkeit ihrer
+Tagelöhner nicht selten auf eine ungebührliche Weise. Ganz besonders wäre
+zu wünschen, dass dieselben den Einliegern bessere Wohnungen verschafften;
+denn diese sind mitunter von der Beschaffenheit, dass es der Billigkeit
+weit angemessener wäre, dass die Leute, welche darin ein Jahr aushalten,
+vier Taler vergütet erhielten, als dass sie diesen Betrag zahlen müssen.
 
 Inwieweit diese im Lande bleibenden Einlieger hinreichend beschäftigt
 werden oder nicht, hängt von der Einsicht und Tüchtigkeit der Hofbesitzer
@@ -500,16 +496,16 @@ gehalten worden. Dies mag immerhin wahr sein; indessen scheint uns eine
 ländliche, wenn auch nur kleine Wirtschaft ohne eine Kuh schon um deswegen
 eine unvollkommene zu sein, weil alsdann, abgesehen von anderen Vorteilen,
 die Familie die so sehr nährende und kräftigende Milch entbehren muss. Im
-Lippischen halten sich die Einlieger statt einer Kuh,
-um Milch zu ihrem Kaffee zu haben, eine oder zwei Ziegen, welche allerdings
-weniger zu unterhalten kosten, aber auch lange nicht die Vorteile gewähren.
-Die Butter fehlt natürlich völlig im Haushalte. Manche Einliegerstellen
-gibt es jedoch noch jetzt, mit welchen so viel Land verbunden ist, dass
-eine oder zwei Kühe gehalten werden können, mit welchen dann auch der Acker
-bestellt wird; diese Stellen sind aber zu einem hohen Preise vermietet, die
-Butter muss meist zu Gelde gemacht werden, sodass die Einlieger dieser Art
-gerade nicht wohlhabender genannt werden können als die übrigen; jedenfalls
-aber haben sie bessere Nahrung.
+Lippischen halten sich die Einlieger statt einer Kuh, um Milch zu ihrem
+Kaffee zu haben, eine oder zwei Ziegen, welche allerdings weniger zu
+unterhalten kosten, aber auch lange nicht die Vorteile gewähren.  Die
+Butter fehlt natürlich völlig im Haushalte. Manche Einliegerstellen gibt es
+jedoch noch jetzt, mit welchen so viel Land verbunden ist, dass eine oder
+zwei Kühe gehalten werden können, mit welchen dann auch der Acker bestellt
+wird; diese Stellen sind aber zu einem hohen Preise vermietet, die Butter
+muss meist zu Gelde gemacht werden, sodass die Einlieger dieser Art gerade
+nicht wohlhabender genannt werden können als die übrigen; jedenfalls aber
+haben sie bessere Nahrung.
 
 Wie sich die Verhältnisse gegenwärtig einmal im Lippischen gestaltet haben,
 ist auf die Verbesserung der Lage der Einlieger dadurch nicht durchgreifend
@@ -621,6 +617,7 @@ allgemeine Einführung von Sparkassen sehr wohltätig sein würde, bedarf wohl
 kaum einer Erwähnung; indes reicht ihr Vorhandensein, wie wir davon
 Beispiele anführen könnten, noch nicht aus, es muss auch die Neigung, sie
 zu benutzen, geweckt werden.
+
 Von großem Einfluss auf den Stand der Einlieger wird es sein, wenn die
 Hofbesitzer sich ihrer in allen Lebensverhältnissen annehmen und selber
 diejenige Tätigkeit in sich bewahren und ausbilden, welche dem Bauernstande
