@@ -820,7 +820,7 @@ verkehrter Geist unter ihnen herrscht, sodass gar viele schon darauf
 pochen, dass sie unterhalten werden müssen.
 
 > **Original footnote marked `*)`**:\
-> *) Die indirekten Abgaben sind indessen durch den Anschluss an den
+> `*)` Die indirekten Abgaben sind indessen durch den Anschluss an den
 > Zollverein auch für die Einlieger betroffen worden.
 
 > **Original footnote marked `**)`**:\
