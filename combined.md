@@ -307,7 +307,7 @@ Monaten verdienen sie jetzt 15–20, höchstens 25 Taler; sie ziehen im April
 fort und kehren gegen Ende Juni oder Juli wieder zurück. Ihre Arbeit jedoch
 ist saurer und ungesunder, da sie im Nassen geschehen muss. [Original footnote marker: `*)`]
 
-> **Original footnote marked **`*)`**\
+> **Original footnote marked `*)`**:\
 > Ref. hat den klassischen Boden des Fürstentums Lippe, auf welchem einst
 > Hermann den Varus schlug, und wo sich jetzt auf dem Gipfel des
 > Teutoburger-Waldgebirges das leider noch nicht vollendete Denkmal des
