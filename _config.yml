@@ -33,7 +33,6 @@ sphinx:
 
   config:
     external_toc_exclude_missing: true
-    intersphinx_mapping: 
 
     myst_enable_extensions:
       - colon_fence

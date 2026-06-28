@@ -1,3 +1,5 @@
+# Part 3
+
 Brickmaking work has been carried on since ancient times by the lower
 classes in the Principality of Lippe; for about twenty-five years it has
 passed more from the small landowners to the Einlieger (*resident landless
