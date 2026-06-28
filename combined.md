@@ -1,5 +1,8 @@
 # Über die Verhältnisse der Einlieger in den Fürstentümern Lippe-Detmold und Schaumburg-Lippe`*)`, vom Pastor Georg Funke in Menslage bei Osnabrück.
 
+**Citation:**\
+Georg Funke, "Ueber die Verhältnisse der Einlieger in Lippe-Detmold und Schaumburg-Lippe," Zeitschrift des Vereins für Deutsche Statistik 2 (Berlin: Schneider, 1848), 1104–1122; digital images, Münchener DigitalisierungsZentrum / Digitale Bibliothek, Bayerische Staatsbibliothek, Munich, <https://www.digitale-sammlungen.de/view/bsb10709532?page=1142%2C1143> : accessed 28 June 2026; catalog record, <https://mdz-nbn-resolving.de/details:bsb10709532>; BSB call no. BHS VI 32-2.
+
 ## II. Lippe-Detmold
 
 Das Fürstentum Lippe-Detmold ernährt nach der Zählung von 1846 (Zeitschrift
@@ -302,28 +305,33 @@ im Torfbaggern. Der Verdienst ist geringer, dagegen bleiben diese
 Torfbaggerer auch weniger lange von ihrer Heimat entfernt. In ungefähr drei
 Monaten verdienen sie jetzt 15–20, höchstens 25 Taler; sie ziehen im April
 fort und kehren gegen Ende Juni oder Juli wieder zurück. Ihre Arbeit jedoch
-ist saurer und ungesunder, da sie im Nassen geschehen muss. [Original footnote marker: *)]
+ist saurer und ungesunder, da sie im Nassen geschehen muss. [Original footnote marker: `*)`]
 
-*) Ref. hat den klassischen Boden des Fürstentums Lippe, auf welchem einst
-Hermann den Varus schlug, und wo sich jetzt auf dem Gipfel des
-Teutoburger-Waldgebirges das leider noch nicht vollendete Denkmal des
-deutschen Helden erhebt, vielfach zu Fuß durchstreift. Bei einer solchen
-Gelegenheit traf er auch einmal einen Einlieger, der ihm mitteilte, dass er
-früher nach Friesland als Torfbaggerer gegangen sei. Er gab den Verdienst
-auf circa 20 Taler an; mitunter habe er davon noch die Reisekosten abziehen
-müssen, mitunter habe er auch noch mehr gehabt. Es kann dieser Arbeiter als
-Beispiel dienen, mit wie wenigem Gelde die Reise von Lippe nach Friesland
-gemacht wird. Derselbe teilte nämlich mit, dass er auf der Hinreise, wo er
-einige Lebensmittel von Haus mit sich nähme, seinen vollen Taler gebraucht
-habe, auf der Rückreise, wo diese gefehlt, jedoch nicht immer damit
-ausgekommen sei. Es sei inzwischen unterwegs meistens auch nur Brot gegessen
-worden; nur einmal, nämlich in Haselünne, wo sie stets ihr Quartier bei
-einem Fleischer genommen hätten, sei warm zu Abend gegessen worden; die
-Mahlzeit sei so gut gewesen, dass sie für eine Hochzeit nicht besser zu sein
-brauche, sie hätten nämlich bekommen Suppe mit Rindfleisch und sodann
-Sauerkraut mit Speck oder Schinken; mit Einschluss des Nachtquartiers auf
-Heu und des am anderen Morgen genossenen Kaffees sei dafür im Ganzen 7 Mgr.
-bezahlt worden, was zwar nicht zu viel
+> **Original footnote marked **`*)`**\
+> Ref. hat den klassischen Boden des Fürstentums Lippe, auf welchem einst
+> Hermann den Varus schlug, und wo sich jetzt auf dem Gipfel des
+> Teutoburger-Waldgebirges das leider noch nicht vollendete Denkmal des
+> deutschen Helden erhebt, vielfach zu Fuß durchstreift. Bei einer solchen
+> Gelegenheit traf er auch einmal einen Einlieger, der ihm mitteilte, dass er
+> früher nach Friesland als Torfbaggerer gegangen sei. Er gab den Verdienst
+> auf circa 20 Taler an; mitunter habe er davon noch die Reisekosten abziehen
+> müssen, mitunter habe er auch noch mehr gehabt. Es kann dieser Arbeiter als
+> Beispiel dienen, mit wie wenigem Gelde die Reise von Lippe nach Friesland
+> gemacht wird. Derselbe teilte nämlich mit, dass er auf der Hinreise, wo er
+> einige Lebensmittel von Haus mit sich nähme, seinen vollen Taler gebraucht
+> habe, auf der Rückreise, wo diese gefehlt, jedoch nicht immer damit
+> ausgekommen sei. Es sei inzwischen unterwegs meistens auch nur Brot gegessen
+> worden; nur einmal, nämlich in Haselünne, wo sie stets ihr Quartier bei
+> einem Fleischer genommen hätten, sei warm zu Abend gegessen worden; die
+> Mahlzeit sei so gut gewesen, dass sie für eine Hochzeit nicht besser zu sein
+> brauche, sie hätten nämlich bekommen Suppe mit Rindfleisch und sodann
+> Sauerkraut mit Speck oder Schinken; mit Einschluss des Nachtquartiers auf
+> Heu und des am anderen Morgen genossenen Kaffees sei dafür im Ganzen 7 Mgr.
+> bezahlt worden, was zwar nicht zu viels sei, jedoch würde ihnen die Reise
+> zu teuer gekommen sein, wenn sie für jedes Nachtquartier eine solche
+> Ausgabe hätten machen wollen. — Man sieht, was sich diese Arbeiter
+> unterwegs abdarben.
+
 Trotzdem, dass die ausländischen Ziegelarbeiten den Einliegern einen sehr
 bedeutenden Verdienst bringen, sollen sie, wie Grundbesitzer behaupten,
 wenig vorteilhaft auf den Zustand der Einlieger eingewirkt haben.
