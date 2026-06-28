@@ -1,6 +1,6 @@
 # Part 5
 
-### c.
+## c.
 
 A portion of the Einlieger (*resident landless tenants/lodgers*) in Lippe
 remains in the country during the summer and, alongside their own
