@@ -909,21 +909,21 @@ noch in anderen Ländern möglich ist, zu gewinnen.
 
 ## II. Schaumburg-Lippe
 
-II. Im Fürstentum Schaumburg-Lippe befinden sich die Einlieger in einem
-weit günstigeren Verhältnis als in Lippe-Detmold, was schon daraus folgt,
-dass dasselbe, obwohl fruchtbarer, doch durchschnittlich weniger bevölkert
-ist. Auf 9¾ Quadratmeilen kommen (nach der Ztschr. für deutsche Statistik
-a. a. O.) 32.244 Einwohner, so dass also die Quadratmeile durchschnittlich
-3.307 Menschen ernähren würde. Im Jahre 1840 betrug die Bevölkerungszahl
-30.000; die Durchschnittszunahme beträgt 1,32 Prozent. Die Volksdichtigkeit
-ist mithin weit geringer als in Lippe, was durchaus wohltätig auf den
-Wohlstand zurückwirkt. Zwar hat sich die Bevölkerung verhältnismäßig stärker
-als in Lippe vermehrt; doch sind aus dieser Vermehrung weniger nachteilige
-Folgen für den Wohlstand des Landes hervorgegangen,
+Im Fürstentum Schaumburg-Lippe befinden sich die Einlieger in einem weit
+günstigeren Verhältnis als in Lippe-Detmold, was schon daraus folgt, dass
+dasselbe, obwohl fruchtbarer, doch durchschnittlich weniger bevölkert ist.
+Auf 9¾ Quadratmeilen kommen (nach der Ztschr. für deutsche Statistik a. a.
+O.) 32.244 Einwohner, so dass also die Quadratmeile durchschnittlich 3.307
+Menschen ernähren würde. Im Jahre 1840 betrug die Bevölkerungszahl 30.000;
+die Durchschnittszunahme beträgt 1,32 Prozent. Die Volksdichtigkeit ist
+mithin weit geringer als in Lippe, was durchaus wohltätig auf den Wohlstand
+zurückwirkt. Zwar hat sich die Bevölkerung verhältnismäßig stärker als in
+Lippe vermehrt; doch sind aus dieser Vermehrung weniger nachteilige Folgen
+für den Wohlstand des Landes hervorgegangen, indem einmal im Lande selber
+mehr Erwerbsquellen fließen und sodann die Einwohnerzahl keineswegs in
+einem Missverhältnis zum kultivierten Boden steht.
 
-indem einmal im Lande selber mehr Erwerbsquellen fließen und sodann die
-Einwohnerzahl keineswegs in einem Missverhältnis zum kultivierten Boden
-steht. Das Fürstentum Schaumburg-Lippe gehört zu den gesegnetsten
+Das Fürstentum Schaumburg-Lippe gehört zu den gesegnetsten
 Landschaften des nordwestlichen Deutschlands. Es ist ein Teil der alten
 Grafschaft Schaum- oder Schauenburg, zu welcher außer dem hessischen so
 benannten Teil auch noch die hannoverschen Ämter Lauenau, Lachem (jetzt
@@ -978,6 +978,7 @@ ist, wogegen ihm dieser alle erforderlichen Fuhren leistet und sein
 Pachtland bestellt oder, wie man im Bückeburgischen sagt, sein Pflugmann
 ist. Alle diese Leistungen haben ihre hergebrachten Ansätze, und über
 dieselben wird in der Winterszeit abgerechnet.
+
 Auch finden sich in Schaumburg-Lippe kleine Kolonen (Brinksitzer), deren
 Lage gewöhnlich übler ist als die der Einlieger, unter welchen sich häufig
 verhältnismäßig gut versorgte Leute finden, welche dabei unbedeutende
@@ -1032,38 +1033,35 @@ Wenn in anderen Gegenden vielfältig Klage über den Kleiderluxus auch in den
 unteren Ständen geführt wird, namentlich der Flitterputz gar sehr überhand
 nimmt, so muss dagegen von Schaumburg-Lippe, wie überhaupt von der
 angrenzenden Gegend, gerühmt werden, dass hier die alte „deftige“ Tracht,
-wie man in Westfalen sagt, erhalten ist, was auf die besitzlose
-Bevölkerung die wohltätigsten Folgen gehabt hat. Wie wohl in wenigen
-Gegenden hat diese Bauerntracht jeder Mode und allen, auch den geringsten
-Änderungen im Schnitt und Stoff getrotzt. Sie ist zwar in ihrer
-Vollständigkeit, wonach jedoch der ärmste Knecht und die ärmste Magd
-strebt, keineswegs wohlfeil, vielmehr sehr teuer; aber dafür auch
-außerordentlich dauerhaft, und dabei ist jedes Kleidungsstück, das Schmutz
-annimmt,
-
-Zeitschr. d. Vereins für deutsche Statistik. II. Jahrg.
-waschbar. Wenn irgendwo, so ist in dieser Kleidung Deftigkeit zu finden.
-Für den Sommer und den Winter ist sie dieselbe; doch sind nur, wenn es kalt
-ist, alle Hüllen zusammen, wogegen die eine oder andere, je nachdem es mehr
-oder minder warm ist, fällt. Sind alle Hüllen zusammen, so ist sie warm und
-doch durchaus für die Arbeit eingerichtet, leicht, kühlend und bequem, wenn
-die Hüllen gefallen sind. In den hohen Sommertagen, z. B. beim Heuen, trägt
-der Bursch ein Hemd und seine Dreiviertelshose und zieht nur etwa beim Hin-
-und Zurückgehen eine Ärmelweste an. Wird im Winter Holz gefahren, so werden
-2 Hemden, 2 Hosen, 2 bis 3 Ärmelwesten (andere kennt man nicht) und ein
-weißleinener gefutterter Kittel getragen, und die Verbrämung der Pelzmütze
-wird in den Nacken gekrempelt. In ähnlicher Weise werden nach der
-Jahreszeit von den Frauenzimmern die verschiedenen Hüllen hinzugenommen
-oder weggelassen. Bei diesen ist eine eigene Sitte, dass die scheinenden
-roten Röcke, welche beim gewöhnlichen Kirchgange gebräuchlich sind, bei der
-Abendmahlsfeier mit schwarzen oder braunen vertauscht werden. Ein blauer
-Tuchrock mit breiten Schößen und großen besponnenen Knöpfen ist die
-Kleidung des Mannes beim Kirchgange und bei der Beerdigung. Gewöhnlich wird
-der Rock bei der Verheiratung angeschafft und reicht dann für das ganze
-Leben aus. Der Mangel an Kirchzeug gilt für Armut. Wir brauchen wohl kaum
-hinzuzufügen, dass die vortreffliche, gediegene Tracht des Bauernstandes
-wohltätig auf dessen inneres Wesen zurückwirkt und die Einlieger vor vielen
-Übeln bewahrt, mit welchen die Heuerleute in einem großen Teil unseres
+wie man in Westfalen sagt, erhalten ist, was auf die besitzlose Bevölkerung
+die wohltätigsten Folgen gehabt hat. Wie wohl in wenigen Gegenden hat diese
+Bauerntracht jeder Mode und allen, auch den geringsten Änderungen im
+Schnitt und Stoff getrotzt. Sie ist zwar in ihrer Vollständigkeit, wonach
+jedoch der ärmste Knecht und die ärmste Magd strebt, keineswegs wohlfeil,
+vielmehr sehr teuer; aber dafür auch außerordentlich dauerhaft, und dabei
+ist jedes Kleidungsstück, das Schmutz annimmt, waschbar. Wenn irgendwo, so
+ist in dieser Kleidung Deftigkeit zu finden.  Für den Sommer und den Winter
+ist sie dieselbe; doch sind nur, wenn es kalt ist, alle Hüllen zusammen,
+wogegen die eine oder andere, je nachdem es mehr oder minder warm ist,
+fällt. Sind alle Hüllen zusammen, so ist sie warm und doch durchaus für die
+Arbeit eingerichtet, leicht, kühlend und bequem, wenn die Hüllen gefallen
+sind. In den hohen Sommertagen, z. B. beim Heuen, trägt der Bursch ein Hemd
+und seine Dreiviertelshose und zieht nur etwa beim Hin- und Zurückgehen
+eine Ärmelweste an. Wird im Winter Holz gefahren, so werden 2 Hemden, 2
+Hosen, 2 bis 3 Ärmelwesten (andere kennt man nicht) und ein weißleinener
+gefutterter Kittel getragen, und die Verbrämung der Pelzmütze wird in den
+Nacken gekrempelt. In ähnlicher Weise werden nach der Jahreszeit von den
+Frauenzimmern die verschiedenen Hüllen hinzugenommen oder weggelassen. Bei
+diesen ist eine eigene Sitte, dass die scheinenden roten Röcke, welche beim
+gewöhnlichen Kirchgange gebräuchlich sind, bei der Abendmahlsfeier mit
+schwarzen oder braunen vertauscht werden. Ein blauer Tuchrock mit breiten
+Schößen und großen besponnenen Knöpfen ist die Kleidung des Mannes beim
+Kirchgange und bei der Beerdigung. Gewöhnlich wird der Rock bei der
+Verheiratung angeschafft und reicht dann für das ganze Leben aus. Der
+Mangel an Kirchzeug gilt für Armut. Wir brauchen wohl kaum hinzuzufügen,
+dass die vortreffliche, gediegene Tracht des Bauernstandes wohltätig auf
+dessen inneres Wesen zurückwirkt und die Einlieger vor vielen Übeln
+bewahrt, mit welchen die Heuerleute in einem großen Teil unseres
 Fürstentums Osnabrück zu kämpfen haben; denn hier ist bereits, besonders im
 Norden, die alte Nationaltracht fast ganz verschwunden, wodurch zugleich
 die einheimischen Kleiderstoffe verdrängt sind, was der handarbeitenden
