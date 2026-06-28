@@ -183,8 +183,8 @@ Einliegern auch die kleinen Grundeigner zählen, die in denselben
 Verhältnissen leben, ernähren sich vorzüglich durch die Leinenindustrie und
 sodann durch die Ziegelarbeit im Ausland.
 
-**a.** In der bereits angeführten Schrift „über die Lage der Heuerleute etc.“
-haben wir uns über den Verfall der Leinenindustrie im Allgemeinen
+**a.** In der bereits angeführten Schrift „über die Lage der Heuerleute
+etc.“ haben wir uns über den Verfall der Leinenindustrie im Allgemeinen
 ausgesprochen. Das, was wir mitteilten, hat auch für das Lippesche seine
 Gültigkeit; gegenwärtig kann sich eine handarbeitende Familie selbst bei
 allem Fleiß angesichts der um sich greifenden Maschinenspinnerei und
@@ -202,21 +202,19 @@ hat uns bekanntlich fast überall vom Leinenhandel ausgeschlossen, sodass
 schließlich nur noch Kuba für den Absatz unserer Erzeugnisse übrig
 geblieben ist, in das es sich inzwischen ebenfalls bereits eingedrängt hat.
 Bei der immer weiter ausgedehnten Baumwollproduktion in Amerika ist es
-zugleich dahin gekommen, dass selbst in Westindien die baumwollenen Gewebe zum Teil die
-leinenen verdrängt haben. 
-[continues paragraph at bottom of page p1107.txt]
-Dies kann übrigens immer nur in einem gewissen Grade der Fall sein, da es
-für die tropischen Länder keine passendere Kleidung gibt als die sehr
-haltbare und zugleich kühlende Leinwand. Deshalb ist jedenfalls zu
-erwarten, dass trotz der Maschinen für die häusliche Leinenindustrie eine
-günstigere Zeit eintreten wird, wenn sich einmal die politischen
-Verhältnisse des tropischen Amerikas mehr gefestigt haben werden und wenn
-wir es nicht versäumen, mit demselben in günstige direkte
-Handelsverbindungen zu treten. Einerseits wird sich dann das handgesponnene
-Leinen bei seiner größeren Stärke und Dauerhaftigkeit sowie bei seinen
-sonstigen Vorzügen neben dem Maschinenleinen behaupten; andererseits wird
-sich die Industrie der besitzlosen Bevölkerung der sorgfältigeren
-Bearbeitung des Flachses für die Maschinen zuwenden.
+zugleich dahin gekommen, dass selbst in Westindien die baumwollenen Gewebe
+zum Teil die leinenen verdrängt haben.  Dies kann übrigens immer nur in
+einem gewissen Grade der Fall sein, da es für die tropischen Länder keine
+passendere Kleidung gibt als die sehr haltbare und zugleich kühlende
+Leinwand. Deshalb ist jedenfalls zu erwarten, dass trotz der Maschinen für
+die häusliche Leinenindustrie eine günstigere Zeit eintreten wird, wenn
+sich einmal die politischen Verhältnisse des tropischen Amerikas mehr
+gefestigt haben werden und wenn wir es nicht versäumen, mit demselben in
+günstige direkte Handelsverbindungen zu treten. Einerseits wird sich dann
+das handgesponnene Leinen bei seiner größeren Stärke und Dauerhaftigkeit
+sowie bei seinen sonstigen Vorzügen neben dem Maschinenleinen behaupten;
+andererseits wird sich die Industrie der besitzlosen Bevölkerung der
+sorgfältigeren Bearbeitung des Flachses für die Maschinen zuwenden.
 
 Im Lippeschen wurden nach der Mitteilung eines Kolonen vor etwa 20–30
 Jahren für einen Taler 12 Stück sogenanntes Kaufgarn geliefert; gegenwärtig
@@ -385,30 +383,23 @@ wachsen diese heran, so kann die Familie – zumal im Winter, wenn die
 herangewachsenen Söhne, die gleich nach der Konfirmation mit ins Ausland
 gehen, mit dem Vater in die Heimat zurückgekehrt sind – eine solche enge
 Wohnung kaum aushalten. Eltern und Kinder, Söhne und Töchter, klein und
-groß – alle müssen in einer Kammer 
------
-[Fußnote Fortsetzung von Seite 1109]
-
-sei, jedoch würde ihnen die Reise zu teuer gekommen sein, wenn sie für
-jedes Nachtquartier eine solche Ausgabe hätten machen wollen. — Man sieht,
-was sich diese Arbeiter unterwegs abdarben.
-schlafen, was nicht bloß auf die leibliche Gesundheit, sondern auch auf die
-Sittlichkeit nachteilig einwirken muss. Meistens sind dabei diese
-Ziegelarbeiter mit Kindern reichlich gesegnet. Unter solchen Umständen
-können die jungen Leute nicht darin verdächtigt werden, wenn sie möglichst
-bald eine eigene Wohnung zu bekommen suchen, und wäre sie auch noch
-schlechter als die der Eltern, um sich zu verheiraten und einen eigenen
-Haushalt anzufangen. In solcher Weise hat sich der lippische Einliegerstand
-auf eine der Größe des Landes und der Kultur desselben nicht angemessene
-Weise vermehrt, sodass das Land infolge dieser Zunahme der besitzlosen
-Bevölkerung sehr an Wohlstand verloren hat, indem trotz des bedeutenden
-Verdienstes im Ausland die Erwerbsquellen doch nicht für den Unterhalt der
-niederen Volksklassen ausreichen. Wir dürfen das Land übervölkert nennen;
-denn die Zahl der besitzlosen Bewohner hat sich gegenüber der der
-Besitzenden auf eine abnorme Weise vermehrt, sodass beide in einem
-Missverhältnis zueinander stehen. Als Ursache dieser Übervölkerung muss
-aber die ausländische Ziegelarbeit angesehen werden, wie dies auch aus
-unserer Darstellung zu ersehen ist.
+groß – alle müssen in einer Kammer schlafen, was nicht bloß auf die
+leibliche Gesundheit, sondern auch auf die Sittlichkeit nachteilig
+einwirken muss. Meistens sind dabei diese Ziegelarbeiter mit Kindern
+reichlich gesegnet. Unter solchen Umständen können die jungen Leute nicht
+darin verdächtigt werden, wenn sie möglichst bald eine eigene Wohnung zu
+bekommen suchen, und wäre sie auch noch schlechter als die der Eltern, um
+sich zu verheiraten und einen eigenen Haushalt anzufangen. In solcher Weise
+hat sich der lippische Einliegerstand auf eine der Größe des Landes und der
+Kultur desselben nicht angemessene Weise vermehrt, sodass das Land infolge
+dieser Zunahme der besitzlosen Bevölkerung sehr an Wohlstand verloren hat,
+indem trotz des bedeutenden Verdienstes im Ausland die Erwerbsquellen doch
+nicht für den Unterhalt der niederen Volksklassen ausreichen. Wir dürfen
+das Land übervölkert nennen; denn die Zahl der besitzlosen Bewohner hat
+sich gegenüber der der Besitzenden auf eine abnorme Weise vermehrt, sodass
+beide in einem Missverhältnis zueinander stehen. Als Ursache dieser
+Übervölkerung muss aber die ausländische Ziegelarbeit angesehen werden, wie
+dies auch aus unserer Darstellung zu ersehen ist.
 
 Anfänglich von den kleinen Grundeignern betrieben, die in der Heimat keine
 hinreichenden Erwerbsquellen fanden, gingen die Ziegelarbeiten nach den
@@ -436,7 +427,7 @@ kein anderes Mittel zur Abhilfe der Übervölkerung als die Auswanderung, die
 auch bereits vielfältig stattfindet; denn für die innere Kolonisation gibt
 es hier wenig oder gar kein Terrain mehr. Wir kommen darauf noch zurück.
 
-c. Ein Teil der Einlieger im Lippischen bleibt im Sommer im Lande und
+**c.** Ein Teil der Einlieger im Lippischen bleibt im Sommer im Lande und
 beschäftigt sich neben dem eigenen kleinen Ackerbau mit Tagelöhnerarbeit
 auf den Kolonaten. Obwohl der Verdienst dieser Einlieger geringer ist,
 stehen sie sich in der Regel dennoch am besten. Zwar können sie sich nicht
